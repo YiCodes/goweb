@@ -1,6 +1,6 @@
 # GoWeb
 
-GoWeb 是个简单的HTTP Handler绑定的Go代码生成工具。目的是减少人为编写代码，减少反射的使用，把资源让给需要使用反射的地方。
+GoWeb 是个简单的HTTP Handler绑定的Go代码生成工具。
 
 ## 安装
 
